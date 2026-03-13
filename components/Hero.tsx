@@ -37,7 +37,7 @@ export function Hero({ data }: { data: HeroData }) {
           <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-zinc-900">
             Hi, I'm {data.name}
           </h1>
-          <h2 className="text-xl md:text-3xl font-medium text-blue-600">
+          <h2 className="text-xl md:text-3xl font-bold text-blue-600">
             {data.title}
           </h2>
           <p className="text-lg md:text-xl text-zinc-600 max-w-2xl mx-auto leading-relaxed">
@@ -57,8 +57,8 @@ export function Hero({ data }: { data: HeroData }) {
               <ArrowRight size={18} />
             </a>
           </Button>
-          <Button asChild variant="outline" size="lg" className="rounded-full gap-2 bg-white">
-            <a href="#contact">
+          <Button asChild variant="outline" size="lg" className="rounded-full cursor-pointer border-2 border-neutral-600 gap-2 bg-white">
+            <a href="mailto:orochianish103@gmail.com" className="text-black">
               {data.ctaSecondary}
               <Mail size={18} />
             </a>
