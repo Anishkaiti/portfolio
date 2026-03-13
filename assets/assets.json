@@ -33,48 +33,42 @@
       "title": "AI Content Generator",
       "description": "AI powered web application for generating structured content with advanced natural language processing.",
       "tech": ["Next.js", "LLM", "Node.js", "TailwindCSS"],
-      "github": "https://github.com",
-      "demo": "https://example.com",
+      "github": "#",
+      "demo": "#",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=800&auto=format&fit=crop"
     },
     {
       "title": "Stock Analysis System",
       "description": "Real-time stock analytics and decision engine utilizing large-scale financial data streams.",
       "tech": ["FastAPI", "Python", "Redis", "React"],
-      "github": "https://github.com",
-      "demo": "https://example.com",
+      "github": "#",
+      "demo": "#",
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop"
     },
     {
-      "title": "Cloud Infrastructure Provisioner",
-      "description": "CLI tool for automated provisioning of resilient cloud architectures over multiple providers.",
-      "tech": ["Go", "Terraform", "AWS API", "Docker"],
-      "github": "https://github.com",
-      "demo": "https://example.com",
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+      "title": "Smart Wheel RL : Autonomous Vehicle Training in Unity",
+      "description": "Trained an autonomous vehicle using Unity ML-Agents, implementing deep reinforcement learning to navigate complex environments.",
+      "tech": ["Unity", "Python", "ML-Agents", "C#"],
+      "github": "#",
+      "demo": "#",
+      "image": "https://content.cld.iop.org/journals/2631-8695/6/4/045260/revision2/erxad9db7f3_hr.jpg"
     }
   ],
   "experience": [
     {
-      "role": "Senior Software Engineer",
-      "company": "Tech Innovators Inc.",
-      "duration": "2023 - Present",
-      "description": "Leading the backend architecture for high-throughput enterprise applications."
-    },
-    {
       "role": "Software Engineer",
       "company": "Freelance",
-      "duration": "2021 - 2023",
+      "duration": "2022 - Present",
       "description": "Building full stack applications and cloud infrastructure for various startups."
     }
   ],
   "socials": {
-    "github": "https://github.com/",
+    "github": "https://github.com/Anishkaiti/",
     "linkedin": "https://linkedin.com/",
     "twitter": "https://twitter.com/",
-    "email": "anish@example.com"
+    "email": "orochianish103@gmail.com"
   },
   "contact": {
-    "email": "anish@example.com"
+    "email": "orochianish103@gmail.com"
   }
 }
