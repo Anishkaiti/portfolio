@@ -1,0 +1,80 @@
+{
+  "seo": {
+    "title": "Anish Chaulagain | Software Engineer",
+    "description": "Software Engineer specializing in DevOps, Backend, and Cloud architecture."
+  },
+  "hero": {
+    "name": "Anish Kaiti",
+    "title": "Software Engineer",
+    "tagline": "Building scalable systems, cloud infrastructure, and intelligent applications.",
+    "profileImage": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=600&auto=format&fit=crop",
+    "ctaPrimary": "View Projects",
+    "ctaSecondary": "Contact Me"
+  },
+  "about": {
+    "description": "I am a software engineer focused on backend systems, DevOps infrastructure, and scalable cloud architecture. Passionate about building resilient distributed systems and optimizing performance.",
+    "highlights": [
+      "Backend Engineering",
+      "DevOps & Cloud",
+      "System Design",
+      "AI Applications"
+    ]
+  },
+  "skills": {
+    "languages": ["JavaScript", "TypeScript", "Python", "Go"],
+    "frontend": ["Next.js", "React", "TailwindCSS", "Framer Motion"],
+    "backend": ["Node.js", "FastAPI", "GraphQL", "Express"],
+    "devops": ["Docker", "Terraform", "CI/CD", "Kubernetes"],
+    "cloud": ["AWS", "Vercel", "GCP"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis"]
+  },
+  "projects": [
+    {
+      "title": "AI Content Generator",
+      "description": "AI powered web application for generating structured content with advanced natural language processing.",
+      "tech": ["Next.js", "LLM", "Node.js", "TailwindCSS"],
+      "github": "https://github.com",
+      "demo": "https://example.com",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "title": "Stock Analysis System",
+      "description": "Real-time stock analytics and decision engine utilizing large-scale financial data streams.",
+      "tech": ["FastAPI", "Python", "Redis", "React"],
+      "github": "https://github.com",
+      "demo": "https://example.com",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "title": "Cloud Infrastructure Provisioner",
+      "description": "CLI tool for automated provisioning of resilient cloud architectures over multiple providers.",
+      "tech": ["Go", "Terraform", "AWS API", "Docker"],
+      "github": "https://github.com",
+      "demo": "https://example.com",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Tech Innovators Inc.",
+      "duration": "2023 - Present",
+      "description": "Leading the backend architecture for high-throughput enterprise applications."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Freelance",
+      "duration": "2021 - 2023",
+      "description": "Building full stack applications and cloud infrastructure for various startups."
+    }
+  ],
+  "socials": {
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com/",
+    "twitter": "https://twitter.com/",
+    "email": "anish@example.com"
+  },
+  "contact": {
+    "email": "anish@example.com"
+  }
+}
