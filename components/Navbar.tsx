@@ -37,7 +37,7 @@ export function Navbar() {
     >
       <div className="mx-auto max-w-6xl px-6 flex items-center justify-between h-16">
         <a href="#" className="text-xl font-bold tracking-tighter">
-          ac<span className="text-blue-600">.</span>
+          Portfolio<span className="text-blue-600">.</span>
         </a>
 
         {/* Desktop Nav */}
