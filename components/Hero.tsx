@@ -58,7 +58,7 @@ export function Hero({ data }: { data: HeroData }) {
             </a>
           </Button>
           <Button asChild variant="outline" size="lg" className="rounded-full cursor-pointer border-2 border-neutral-600 gap-2 bg-white">
-            <a href="mailto:orochianish103@gmail.com" className="text-black">
+            <a target="_blank" rel="noopener noreferrer" href={`https://mail.google.com/mail/?view=cm&fs=1&to=orochianish103@gmail.com`} className="text-black">
               {data.ctaSecondary}
               <Mail size={18} />
             </a>
