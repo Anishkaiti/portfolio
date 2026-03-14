@@ -29,7 +29,7 @@ export function Contact({ contact, socials }: { contact: ContactData; socials: S
 
           <div className="pt-8">
             <Button size="lg" className="rounded-full text-base px-8 h-14 bg-blue-600 hover:bg-blue-700 text-white shadow-lg shadow-blue-500/20" asChild>
-              <a href={`mailto:orochianish103@gmail.com`}>
+              <a href={`https://mail.google.com/mail/?view=cm&fs=1&to=${contact.email}`} target="_blank" rel="noopener noreferrer">
                 <Mail className="mr-2 h-5 w-5" />
                 Say Hello
               </a>
